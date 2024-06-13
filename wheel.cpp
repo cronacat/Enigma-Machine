@@ -18,7 +18,7 @@ Wheel::Wheel(
     loadLToR();
     loadRToL();
     convertToOffset();
-
+};
 
 void Wheel::loadLToR() {
 
